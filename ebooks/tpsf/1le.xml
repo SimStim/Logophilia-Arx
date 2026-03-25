@@ -1,0 +1,38 @@
+<lea:title>The Pitch Science Fiction 2Q2024</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="February 27, 2026">March 1, 2026</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|Journey">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="11" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="essentials@logophilia.eu">Logophilia Essentials</lea:publisher>
+<lea:rights>All stories are in the public domain in the USA.
+All content not marked public domain are (C) 2026 by Eduard Pech.
+The complete edition is (C) 2026 by Logophilia Essenstials.
+Logophilia Essentials is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-1</lea:subfolder>
+<lea:subfolder tag="images">tpsf-1</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:option value="no">include-images</lea:option>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>Out of the Iron Womb! by Poul Anderson.xhtml</lea:text>
+<lea:text>Youth by Isaac Asimov.xhtml</lea:text>
+<lea:text>Last Call from Sector 9G by Leigh Brackett.xhtml</lea:text>
+<lea:text>The Monster Maker by Ray Bradbury.xhtml</lea:text>
+<lea:text>The Hanging Stranger by Philip K. Dick.xhtml</lea:text>
+<lea:text>Tongues of the Moon by Philip José Farmer.xhtml</lea:text>
+<lea:text>The Fifth-Dimension Tube by Murray Leinster.xhtml</lea:text>
+<lea:text>The Game of Rat and Dragon by Cordwainer Smith.xhtml</lea:text>
+<lea:text>The Vortex Blaster by E. E. Smith.xhtml</lea:text>
+<lea:text>Sjambak by Jack Vance.xhtml</lea:text>
+<lea:text>The Journey Continues.xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication LE.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-9726-5-7</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:stylesheet>stylesheet-le.css</lea:stylesheet>
+<lea:cover>2024Q2-LE-cover-epub-inside.jpg</lea:cover>

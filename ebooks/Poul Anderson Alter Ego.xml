@@ -1,0 +1,26 @@
+<lea:title>Poul Anderson Alter Ego</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="February 25, 2026">February 25, 2026</lea:date>
+<lea:description>Two stories by Poul Anderson, renowned and award-winning science-fiction author, showing his skill and talent across genres.
+The Golden Slave—a thundering novel of conquest and vengeance in the barbaric days of the first century BC;
+Murder in Black Letter—a cock robin mystery.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All stories are in the public domain in the USA. All content not marked public domain are (C) 2026 by Eduard Pech. The complete edition is (C) 2026 by Logophilia. Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Poul Anderson Alter Ego</lea:subfolder>
+<lea:subfolder tag="images">Poul Anderson Alter Ego</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:text>Poul Anderson in Two Registers.xhtml</lea:text>
+<lea:text>The Golden Slave.xhtml</lea:text>
+<lea:text>Murder in Black Letter.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-9726-6-4</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Poul Anderson Alter Ego cover epub inside.jpg</lea:cover>

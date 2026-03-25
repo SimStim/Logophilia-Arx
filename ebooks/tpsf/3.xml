@@ -1,0 +1,41 @@
+<lea:title>The Pitch Science Fiction 4Q2024</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="August 4, 2024">August 12, 2024</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|Journey">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="3" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All stories are in the public domain in the USA.
+All content not marked public domain are (C) 2024 by Eduard Pech.
+The complete edition is (C) 2024 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-3</lea:subfolder>
+<lea:subfolder tag="images">tpsf-3</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>The Tunnel Under the World by Frederik Pohl.xhtml</lea:text>
+<lea:text>Cosmic Striptease by Harlan Ellison.xhtml</lea:text>
+<lea:text>I, Gardener by Allen Kim Lang.xhtml</lea:text>
+<lea:text>Scanners Live in Vain by Cordwainer Smith.xhtml</lea:text>
+<lea:text>The Scarlet Plague by Jack London.xhtml</lea:text>
+<lea:text>Second Variety by Philip K. Dick.xhtml</lea:text>
+<lea:text>Pygmalion's Spectacles by Stanley G. Weinbaum.xhtml</lea:text>
+<lea:text>The Colour out of Space by H. P. Lovecraft.xhtml</lea:text>
+<lea:text>The Second Shell by Jack Williamson.xhtml</lea:text>
+<lea:text>The Invisible Master by Edmond Hamilton.xhtml</lea:text>
+<lea:text>The Journey Continues.xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9916-9295-2-0</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>2024Q4-cover-epub-inside.jpg</lea:cover>
