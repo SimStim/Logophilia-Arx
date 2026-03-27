@@ -4,7 +4,7 @@
 <lea:description>The Pitch Science Fiction is a quarterly publication
 of science fiction stories by various authors, covering diverse themes.
 Included in this issue:
-<lea:script skip="About|Journey">Table Of Contents Plain</lea:script></lea:description>
+<lea:script skip="About|This Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
 <lea:collection type="series" position="4" issn="2806-4240">The Pitch Science Fiction</lea:collection>
 <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
 <lea:rights>All texts and illustrations not explicitly declared as being in the public domain
