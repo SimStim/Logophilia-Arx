@@ -1,0 +1,64 @@
+<lea:title>The Pitch Science Fiction 2024</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="August 4, 2024">August 12, 2024</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|Journey">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="4" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All texts and illustrations not explicitly declared as being in the public domain
+are copyright 2024 by Eduard Pech or by their respective authors.
+The complete edition is (C) 2024 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-4</lea:subfolder>
+<lea:subfolder tag="images">tpsf-4</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>Table of Contents by Authors.xhtml</lea:text>
+<lea:text>Table of Contents by Blurbs.xhtml</lea:text>
+<lea:text>Table of Contents by Era.xhtml</lea:text>
+<lea:text>Out of the Iron Womb! by Poul Anderson.xhtml</lea:text>
+<lea:text>Youth by Isaac Asimov.xhtml</lea:text>
+<lea:text>Last Call from Sector 9G by Leigh Brackett.xhtml</lea:text>
+<lea:text>The Monster Maker by Ray Bradbury.xhtml</lea:text>
+<lea:text>The Hanging Stranger by Philip K. Dick.xhtml</lea:text>
+<lea:text>Tongues of the Moon by Philip José Farmer.xhtml</lea:text>
+<lea:text>The Fifth-Dimension Tube by Murray Leinster.xhtml</lea:text>
+<lea:text>The Game of Rat and Dragon by Cordwainer Smith.xhtml</lea:text>
+<lea:text>The Vortex Blaster by E. E. Smith.xhtml</lea:text>
+<lea:text>Sjambak by Jack Vance.xhtml</lea:text>
+<lea:text>The Star-Stealers by Edmond Hamilton.xhtml</lea:text>
+<lea:text>A Pail of Air by Fritz Leiber.xhtml</lea:text>
+<lea:text>The Eyes Have It by Philip K. Dick.xhtml</lea:text>
+<lea:text>Contagion by Katherine MacLean.xhtml</lea:text>
+<lea:text>Let’s Get Together by Isaac Asimov.xhtml</lea:text>
+<lea:text>The Big Trip Up Yonder by Kurt Vonnegut, Jr.xhtml</lea:text>
+<lea:text>Lorelei of the Red Mist by Leigh Brackett and Ray Bradbury.xhtml</lea:text>
+<lea:text>The Last Evolution by John W. Campbell, Jr.xhtml</lea:text>
+<lea:text>The Poison Belt by Arthur Conan Doyle.xhtml</lea:text>
+<lea:text>Try to Remember! by Frank Herbert.xhtml</lea:text>
+<lea:text>The Tunnel Under the World by Frederik Pohl.xhtml</lea:text>
+<lea:text>Cosmic Striptease by Harlan Ellison.xhtml</lea:text>
+<lea:text>I, Gardener by Allen Kim Lang.xhtml</lea:text>
+<lea:text>Scanners Live in Vain by Cordwainer Smith.xhtml</lea:text>
+<lea:text>The Scarlet Plague by Jack London.xhtml</lea:text>
+<lea:text>Second Variety by Philip K. Dick.xhtml</lea:text>
+<lea:text>Pygmalion's Spectacles by Stanley G. Weinbaum.xhtml</lea:text>
+<lea:text>The Colour out of Space by H. P. Lovecraft.xhtml</lea:text>
+<lea:text>The Second Shell by Jack Williamson.xhtml</lea:text>
+<lea:text>The Invisible Master by Edmond Hamilton.xhtml</lea:text>
+<lea:text>2 B R 0 2 B by Kurt Vonnegut, Jr..xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9916-9295-3-7</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>2024-cover-epub-inside.jpg</lea:cover>
