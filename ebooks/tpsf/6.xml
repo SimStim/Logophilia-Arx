@@ -36,6 +36,7 @@ Logophilia is an imprint of Logophilia OÜ.</lea:rights>
 <lea:font>Comfortaa-Bold.ttf</lea:font>
 <lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
 <lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:font>NotoSansRunic-Regular.ttf</lea:font>
 <lea:stylesheet>stylesheet.css</lea:stylesheet>
-<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:stylesheet>fonts-runic.css</lea:stylesheet>
 <lea:cover>2025Q2-cover-epub-inside.jpg</lea:cover>

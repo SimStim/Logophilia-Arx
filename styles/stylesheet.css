@@ -232,7 +232,7 @@ p + p, div + p, figure + p, blockquote + p {
 }
 
 .runic {
-    font-family: EBGaramond, sans-serif;
+    font-family: NotoSansRunic, sans-serif;
 }
 
 .text-smallcaps {

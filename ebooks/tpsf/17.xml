@@ -1,0 +1,38 @@
+<lea:title>The Pitch Science Fiction 3Q2025</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="March 30, 2026">March 30, 2026</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|The Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="17" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="essentials@logophilia.eu">Logophilia Essentials</lea:publisher>
+<lea:rights>All texts and illustrations not explicitly declared as being in the public domain
+are copyright 2026 by Eduard Pech or by their respective authors.
+The complete edition is copyright 2026 by Logophilia Essentials.
+Logophilia Essentials is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-7</lea:subfolder>
+<lea:subfolder tag="images">tpsf-7</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:option value="no">include-images</lea:option>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>Plague Ship by Andre Norton.xhtml</lea:text>
+<lea:text>The Celestial Blueprint by Philip Jose Farmer.xhtml</lea:text>
+<lea:text>Deathworld by Harry Harrison.xhtml</lea:text>
+<lea:text>Valley of Dreams by Stanley G. Weinbaum.xhtml</lea:text>
+<lea:text>Hubris by Idoru Toei.xhtml</lea:text>
+<lea:text>Security by Poul Anderson.xhtml</lea:text>
+<lea:text>The Legion of Lazarus by Edmond Hamilton.xhtml</lea:text>
+<lea:text>Omnilingual by H. Beam Piper.xhtml</lea:text>
+<lea:text>The Magnificent Possession by Isaac Asimov.xhtml</lea:text>
+<lea:text>The Variable Man by Philip K. Dick.xhtml</lea:text>
+<lea:text>The Journey Continues.xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication LE.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>PENDING</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:stylesheet>stylesheet-le.css</lea:stylesheet>
+<lea:cover>2025Q3-LE-cover-epub-inside.jpg</lea:cover>
