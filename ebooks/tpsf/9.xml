@@ -1,0 +1,75 @@
+<lea:title>The Pitch Science Fiction 2025</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="December 9, 2025">December 9, 2025</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|The Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="9" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All texts and illustrations not explicitly declared as being in the public domain
+are copyright 2025 by Eduard Pech or by their respective authors.
+The complete edition is copyright 2025 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-9</lea:subfolder>
+<lea:subfolder tag="images">tpsf-9</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>Table of Contents by Authors.xhtml</lea:text>
+<lea:text>Table of Contents by Blurbs.xhtml</lea:text>
+<lea:text>Table of Contents by Era.xhtml</lea:text>
+<lea:text>The Snowball Effect by Katherine MacLean.xhtml</lea:text>
+<lea:text>Missing Link by Frank Herbert.xhtml</lea:text>
+<lea:text>The Marching Morons by C. M. Kornbluth.xhtml</lea:text>
+<lea:text>Anthem by Ayn Rand.xhtml</lea:text>
+<lea:text>The Life Watch by Lester del Rey.xhtml</lea:text>
+<lea:text>The Wounded by Philip Jose Farmer.xhtml</lea:text>
+<lea:text>The Expendables by A. E. van Vogt.xhtml</lea:text>
+<lea:text>Metropolis by Thea von Harbou.xhtml</lea:text>
+<lea:text>The Voice of the Void by John W. Campbell, Jr..xhtml</lea:text>
+<lea:text>Zero Hour by Ray Bradbury.xhtml</lea:text>
+<lea:text>Transcendence by Idoru Toei.xhtml</lea:text>
+<lea:text>Watchbird by Robert Sheckley.xhtml</lea:text>
+<lea:text>A Martian Odyssey by Stanley G. Weinbaum.xhtml</lea:text>
+<lea:text>The Time Machine by H. G. Wells.xhtml</lea:text>
+<lea:text>Despoilers of the Golden Empire by Randall Garrett.xhtml</lea:text>
+<lea:text>Industrial Revolution by Poul Anderson.xhtml</lea:text>
+<lea:text>ARMAGEDDON 2419 AD by Philip Francis Nowlan.xhtml</lea:text>
+<lea:text>Mr. Spaceship by Philip K. Dick.xhtml</lea:text>
+<lea:text>This Crowded Earth by Robert Bloch.xhtml</lea:text>
+<lea:text>Pillar of Fire by Ray Bradbury.xhtml</lea:text>
+<lea:text>Plague Ship by Andre Norton.xhtml</lea:text>
+<lea:text>The Celestial Blueprint by Philip Jose Farmer.xhtml</lea:text>
+<lea:text>Deathworld by Harry Harrison.xhtml</lea:text>
+<lea:text>Valley of Dreams by Stanley G. Weinbaum.xhtml</lea:text>
+<lea:text>Hubris by Idoru Toei.xhtml</lea:text>
+<lea:text>Security by Poul Anderson.xhtml</lea:text>
+<lea:text>The Legion of Lazarus by Edmond Hamilton.xhtml</lea:text>
+<lea:text>Omnilingual by H. Beam Piper.xhtml</lea:text>
+<lea:text>The Magnificent Possession by Isaac Asimov.xhtml</lea:text>
+<lea:text>The Variable Man by Philip K. Dick.xhtml</lea:text>
+<lea:text>The Status Civilization by Robert Sheckley.xhtml</lea:text>
+<lea:text>Gambler's World by Keith Laumer.xhtml</lea:text>
+<lea:text>Arm of the Law by Harry Harrison.xhtml</lea:text>
+<lea:text>The World That Couldn't Be by Clifford D. Simak.xhtml</lea:text>
+<lea:text>M2 by Daria Skrinitsa.xhtml</lea:text>
+<lea:text>Islands of Space by John W. Campbell, Jr..xhtml</lea:text>
+<lea:text>A Question of Courage by Jesse F. Bone.xhtml</lea:text>
+<lea:text>The Sensitive Man by Poul Anderson.xhtml</lea:text>
+<lea:text>The Memory of Mars by Raymond F. Jones.xhtml</lea:text>
+<lea:text>Let 'Em Breathe Space by Lester del Rey.xhtml</lea:text>
+<lea:text>The Eyes Have It by Randall Garrett.xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-9726-3-3</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:font>NotoSansRunic-Regular.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts-runic.css</lea:stylesheet>
+<lea:cover>2025-cover-epub-inside.jpg</lea:cover>
