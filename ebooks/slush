@@ -1,0 +1,29 @@
+<lea:title>Slush Pile</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="April 1, 2026">April 1, 2026</lea:date>
+<lea:description>Logophilia Slush Pile</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>Not for publication.</lea:rights>
+<lea:language>en</lea:language>
+<lea:text>slush/About the Content.xhtml</lea:text>
+<lea:text>slush/Age of Anxiety by Robert Silverberg.xhtml</lea:text>
+<lea:text>slush/Coming Attraction by Fritz Leiber.xhtml</lea:text>
+<lea:text>slush/Happy Ending by Mack Reynolds and Fredric Brown.xhtml</lea:text>
+<lea:text>slush/Message From Mars by Clifford D. Simak.xhtml</lea:text>
+<lea:text>slush/Mistake Inside by James Blish.xhtml</lea:text>
+<lea:text>slush/The Ambulance Made Two Trips by Murray Leinster.xhtml</lea:text>
+<lea:text>slush/The Defenders by Philip K. Dick.xhtml</lea:text>
+<lea:text>slush/The Green Odyssey by Philip Jose Farmer.xhtml</lea:text>
+<lea:text>slush/The Nothing Equation by Tom Godwin.xhtml</lea:text>
+<lea:text>slush/We by Evgenii Ivanovich Zamiatin.xhtml</lea:text>
+<lea:text>slush/About the Authors.xhtml</lea:text>
+<lea:text>slush/About this Publication.xhtml</lea:text>
+<lea:text>slush/About the Publisher.xhtml</lea:text>
+<lea:isbn>NONE</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>slush.jpg</lea:cover>

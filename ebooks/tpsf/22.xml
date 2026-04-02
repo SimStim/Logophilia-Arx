@@ -1,0 +1,29 @@
+<lea:title>The Pitch Science Fiction 2Q2026</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="April 1, 2026">April 30, 2026</lea:date>
+<lea:description>The Pitch Science Fiction is a quarterly publication
+of science fiction stories by various authors, covering diverse themes.
+Included in this issue:
+<lea:script skip="About|The Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
+<lea:collection type="series" position="22" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+<lea:publisher contact="essentials@logophilia.eu">Logophilia Essentials</lea:publisher>
+<lea:rights>All stories are in the public domain in the USA.
+All content not marked public domain is copyright 2026 by Eduard Pech.
+The complete edition is copyright 2026 by Logophilia Essentials.
+Logophilia Essentials is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="epub">tpsf</lea:subfolder>
+<lea:subfolder tag="text">tpsf-21</lea:subfolder>
+<lea:subfolder tag="images">tpsf-21</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:option value="no">include-images</lea:option>
+<lea:text>Preface by the Editor 2026Q2.xhtml</lea:text>
+<lea:text>About the Content.xhtml</lea:text>
+<lea:text>Charged with Suicide by Daria Skrinitsa.xhtml</lea:text>
+<lea:text>About the Authors.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>PENDING</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:stylesheet>stylesheet-le.css</lea:stylesheet>
+<lea:cover>2026Q2-LE-cover-epub-inside.jpg</lea:cover>
