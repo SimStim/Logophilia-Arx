@@ -87,6 +87,11 @@ blockquote {
     font-style: italic;
 }
 
+.text-spaced {
+    letter-spacing: 0.15em;
+    margin-right: -0.15em;
+}
+
 .hr {
     margin: 0.3em auto 0em;
     padding-top: 0.7em;
