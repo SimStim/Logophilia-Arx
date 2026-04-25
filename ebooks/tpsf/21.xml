@@ -7,8 +7,10 @@ Included in this issue:
 <lea:script skip="About|The Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
 <lea:collection type="series" position="21" issn="2806-4240">The Pitch Science Fiction</lea:collection>
 <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
-<lea:rights>All stories are in the public domain in the USA.
-All content not marked public domain is copyright 2026 by Eduard Pech.
+<lea:rights>Charged with Suicide by Daria Skrinitsa is copyright 2026 by Daria Skrinitsa.
+Based on “обвиняется в самоубистве,” copyright 2009 by Daria Skrinitsa.  Used by permission.
+All other stories are in the public domain in the USA.
+All content not marked public domain or declared otherwise, is copyright 2026 by Eduard Pech.
 The complete edition is copyright 2026 by Logophilia.
 Logophilia is an imprint of Logophilia OÜ.</lea:rights>
 <lea:language>en</lea:language>
@@ -33,7 +35,7 @@ Logophilia is an imprint of Logophilia OÜ.</lea:rights>
 <lea:text>About the Authors.xhtml</lea:text>
 <lea:text>About this Publication.xhtml</lea:text>
 <lea:text>About the Publisher.xhtml</lea:text>
-<lea:isbn>PENDING</lea:isbn>
+<lea:isbn>978-9908-850-07-8</lea:isbn>
 <lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
 <lea:font>Comfortaa-Bold.ttf</lea:font>
 <lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
