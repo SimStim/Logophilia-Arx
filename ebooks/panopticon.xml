@@ -1,0 +1,34 @@
+<lea:title>Panopticon: Lensmen Series Unexpurgated</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="March 3, 2026">March 6, 2026</lea:date>
+<lea:description>Edward Elmer Smith's Lensmen Series Unexpurgated.
+Includes original and new illustrations. Main text content:
+<lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content not declared public domain is (C) 2026 by Eduard Pech.
+The complete edition is (C) 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Panopticon</lea:subfolder>
+<lea:subfolder tag="images">Panopticon</lea:subfolder>
+<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+<lea:text>Introduction.xhtml</lea:text>
+<lea:text>Triplanetary.xhtml</lea:text>
+<lea:text>First Lensman.xhtml</lea:text>
+<lea:text>Galactic Patrol.xhtml</lea:text>
+<lea:text>Gray Lensman.xhtml</lea:text>
+<lea:text>Second Stage Lensmen.xhtml</lea:text>
+<lea:text>Children of the Lens.xhtml</lea:text>
+<lea:text>Masters of the Vortex.xhtml</lea:text>
+<lea:text>Chronology.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>PENDING</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Panopticon by E. E. Smith cover-epub-inside.jpg</lea:cover>
