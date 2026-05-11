@@ -19,6 +19,10 @@ html, p, figcaption {
     font-family: EBGaramond, serif;
 }
 
+blockquote {
+    padding: 0 1em;
+}
+
 sup {
     color: inherit;
     font-size: 80%;
