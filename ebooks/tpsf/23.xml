@@ -4,12 +4,10 @@
 <lea:description>The Pitch Science Fiction is a quarterly publication
 of science fiction stories by various authors, covering diverse themes.
 Included in this issue:
-<lea:script skip="About|The Journey Continues|Table of Contents">Table Of Contents Plain</lea:script></lea:description>
+<lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
 <lea:collection type="series" position="21" issn="2806-4240">The Pitch Science Fiction</lea:collection>
 <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
-<lea:rights>Charged with Suicide by Daria Skrinitsa is copyright 2026 by Daria Skrinitsa.
-Based on “обвиняется в самоубистве,” copyright 2009 by Daria Skrinitsa.  Used by permission.
-All other stories are in the public domain in the USA.
+<lea:rights>All other stories are in the public domain in the USA.
 All content not marked public domain or declared otherwise, is copyright 2026 by Eduard Pech.
 The complete edition is copyright 2026 by Logophilia.
 Logophilia is an imprint of Logophilia OÜ.</lea:rights>
