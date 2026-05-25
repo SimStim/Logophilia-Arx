@@ -1,0 +1,32 @@
+<lea:title>Hubris</lea:title>
+<lea:author file-as="Pech, Eduard [Idoru Toei]">Idoru Toei</lea:author>
+<lea:date created="January 24, 2025">August 26, 2025</lea:date>
+<lea:description>From the heart of human civilization to the farthest reaches of space, this thought-provoking tale explores the fragility of life, the cost of progress, and the timeless pursuit of hope—even in the face of annihilation.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is (C) 2025 by Eduard Pech writing as Idoru Toei.
+The complete edition is (C) 2025 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Hubris</lea:subfolder>
+<lea:subfolder tag="images">Hubris</lea:subfolder>
+<lea:text>Hubris Dedication.xhtml</lea:text>
+<lea:text>Hubris Prologue.xhtml</lea:text>
+<lea:text>Hubris Chapter 1 - Utopia.xhtml</lea:text>
+<lea:text>Hubris Chapter 2 - Revelation.xhtml</lea:text>
+<lea:text>Hubris Chapter 3 - Resistence.xhtml</lea:text>
+<lea:text>Hubris Chapter 4 - Entropy.xhtml</lea:text>
+<lea:text>Hubris Chapter 5 - Epiphany.xhtml</lea:text>
+<lea:text>Hubris Chapter 6 - Fade.xhtml</lea:text>
+<lea:text>Hubris Chapter 7 - Silence.xhtml</lea:text>
+<lea:text>Hubris Epilogue.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9916-9295-6-8</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Hubris cover epub inside.jpg</lea:cover>
