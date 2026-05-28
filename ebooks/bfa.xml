@@ -1,0 +1,40 @@
+<lea:title>Book of Facts for Adults</lea:title>
+<lea:author file-as="Pech, Eduard [Eduard Pech]">Eduard Pech</lea:author>
+<lea:date created="July 21, 2024">August 1, 2024</lea:date>
+<lea:description>A book of trivia featuring mind-blowing facts.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is © 2024-2026 by Eduard Pech, unless noted otherwise.
+The complete edition is © 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Book of Facts for Adults</lea:subfolder>
+<lea:subfolder tag="images">Book of Facts for Adults</lea:subfolder>
+<lea:text>Dedication.xhtml</lea:text>
+<lea:text>Preface.xhtml</lea:text>
+<lea:text>Astronomy and Space.xhtml</lea:text>
+<lea:text>Biology.xhtml</lea:text>
+<lea:text>Chemistry.xhtml</lea:text>
+<lea:text>Physics.xhtml</lea:text>
+<lea:text>Geography.xhtml</lea:text>
+<lea:text>History.xhtml</lea:text>
+<lea:text>Literature and Language.xhtml</lea:text>
+<lea:text>Mathematics.xhtml</lea:text>
+<lea:text>Medicine and Health.xhtml</lea:text>
+<lea:text>Technology and Engineering.xhtml</lea:text>
+<lea:text>Environment and Ecology.xhtml</lea:text>
+<lea:text>Sports and Recreation.xhtml</lea:text>
+<lea:text>Inventions and Discoveries.xhtml</lea:text>
+<lea:text>Transportation and Travel.xhtml</lea:text>
+<lea:text>Animals and Zoology.xhtml</lea:text>
+<lea:text>Human Reproduction and Sexual Physiology.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9916-4-2561-9</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>BFA cover epub inside.jpg</lea:cover>
