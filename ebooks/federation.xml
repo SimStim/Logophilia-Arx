@@ -1,0 +1,38 @@
+<lea:title>Federation</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="May 30, 2026">June 2, 2026</lea:date>
+<lea:description>H. Beam Piper’s Federation Cycle.
+With all-new full-color illustrations redrawn from the original pulp art.
+Main text content:
+<lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is (C) 2026 by Eduard Pech, unless noted otherwise.
+The complete edition is (C) 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Federation</lea:subfolder>
+<lea:subfolder tag="images">Federation</lea:subfolder>
+<lea:text>Uller Uprising.xhtml</lea:text>
+<lea:text>Four-Day Planet.xhtml</lea:text>
+<lea:text>The Cosmic Computer.xhtml</lea:text>
+<lea:text>Space Viking.xhtml</lea:text>
+<lea:text>The Edge of the Knife.xhtml</lea:text>
+<lea:text>A Slave is a Slave.xhtml</lea:text>
+<lea:text>Ministry of Disturbance.xhtml</lea:text>
+<lea:text>The Return.xhtml</lea:text>
+<lea:text>The Keeper.xhtml</lea:text>
+<lea:text>Omnilingual.xhtml</lea:text>
+<lea:text>Naudsonce.xhtml</lea:text>
+<lea:text>Oomphel in the Sky.xhtml</lea:text>
+<lea:text>Graveyard of Dreams.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>NONE</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Federation by H. Beam Piper cover epub inside.jpg</lea:cover>
