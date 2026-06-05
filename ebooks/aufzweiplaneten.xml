@@ -1,0 +1,27 @@
+<lea:title>Auf zwei Planeten</lea:title>
+<lea:author>Eduard Pech</lea:author>
+<lea:date created="June 4, 2026">June5, 2026</lea:date>
+<lea:description>Auf zwei Planeten von Kurd Lasswitz.
+Ungekürzte Ausgabe. Illustriert. Inhalt:
+<lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is (C) 2026 by Eduard Pech, unless noted otherwise.
+The complete edition is (C) 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>de</lea:language>
+<lea:subfolder tag="text">Auf zwei Planeten</lea:subfolder>
+<lea:subfolder tag="images">Auf zwei Planeten</lea:subfolder>
+<lea:text>Inhalt.xhtml</lea:text>
+<lea:text>Auf zwei Planeten Erstes Buch von Kurd Lasswitz.xhtml</lea:text>
+<lea:text>Auf zwei Planeten Zweites Buch von Kurd Lasswitz.xhtml</lea:text>
+<lea:text>Der Autor.xhtml</lea:text>
+<lea:text>Die Publikation.xhtml</lea:text>
+<lea:text>Der Verlag.xhtml</lea:text>
+<lea:isbn>NONE</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Auf zwei Planeten von Kurd Lasswitz cover epub inside.jpg</lea:cover>
