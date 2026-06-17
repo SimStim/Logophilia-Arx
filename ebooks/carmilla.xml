@@ -1,0 +1,33 @@
+<lea:title>Carmilla</lea:title>
+<lea:author file-as="Le Fanu, Joseph Sheridan [Joseph Sheridan Le Fanu]">Joseph Sheridan Le Fanu</lea:author>
+<lea:date created="June 16, 2026">June 16, 2026</lea:date>
+<lea:description>After a carriage accident leaves her convalescing in the isolation of Styria,
+Laura finds herself drawn to an unexpected companion. Carmilla arrives like
+a fever dream: magnetic, beautiful, and possessed of a familiarity that defies logic.
+But as their intimacy deepens within the castle’s quiet halls,
+the slow decay of dread begins to seep into the surrounding valley.
+Young women are falling into slow, inexplicable decay,
+their lives slipping away amid night terrors and sudden exhaustion.
+As the line between affection and suspicion blurs,
+Laura must confront a truth far more predatory than any mere stranger:
+some shadows do not merely haunt us; they hunger for us.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is (C) 2026 by Eduard Pech unless attributed otherwise.
+The complete edition is (C) 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Carmilla</lea:subfolder>
+<lea:subfolder tag="images">Carmilla</lea:subfolder>
+<lea:text>Introduction.xhtml</lea:text>
+<lea:text>Carmilla.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-850-16-0</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Carmilla by Joseph Thomas Sheridan Le Fanu cover epub inside.jpg</lea:cover>
