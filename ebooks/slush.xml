@@ -5,10 +5,9 @@
 <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
 <lea:rights>Not for publication.</lea:rights>
 <lea:language>en</lea:language>
-<lea:subfolder></lea:subfolder>
+<lea:subfolder tag="images">Dichotomies of Longing</lea:subfolder>
 <lea:text>slush/About the Content.xhtml</lea:text>
-<lea:text>slush/Auf zwei Planeten Erstes Buch by Kurd Lasswitz.xhtml</lea:text>
-<lea:text>slush/Auf zwei Planeten Zweites Buch by Kurd Lasswitz.xhtml</lea:text>
+<lea:text>slush/Nothing.xhtml</lea:text>
 <lea:text>slush/About the Authors.xhtml</lea:text>
 <lea:text>slush/About this Publication.xhtml</lea:text>
 <lea:text>slush/About the Publisher.xhtml</lea:text>
@@ -19,4 +18,4 @@
 <lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
 <lea:stylesheet>stylesheet.css</lea:stylesheet>
 <lea:stylesheet>fonts.css</lea:stylesheet>
-<lea:cover>slush.jpg</lea:cover>
+<lea:cover>../slush.jpg</lea:cover>
