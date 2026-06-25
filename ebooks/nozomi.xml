@@ -1,0 +1,33 @@
+<lea:title>Nozomi</lea:title>
+<lea:author file-as="Pech, Eduard [Idoru Toei]">Idoru Toei</lea:author>
+<lea:date created="June 24, 2026">June 25, 2026</lea:date>
+<lea:description>She lived in the quiet between two silences: her mother’s refusal to enter,
+her father’s voice blocked by the machinery that governed all contact between
+his household and hers. The apartment was a space she shared with someone
+who had stopped meeting her in it, and the loneliness had become so constant
+that she had stopped recognizing it as loneliness: it was simply the temperature
+of the air, the color of the light that fell across her monitors in the small hours.
+
+She was fourteen, gifted in ways that set her apart, and accustomed to decoding the world alone.
+Then, in a news segment no one else was watching, she saw a man
+move through a corridor with a stillness she had not known she was looking for.
+The footage lasted three seconds. It changed everything.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is © 2026 by Eduard Pech, unless noted otherwise.
+The complete edition is © 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Nozomi</lea:subfolder>
+<lea:subfolder tag="images">Nozomi</lea:subfolder>
+<lea:text>Nozomi.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-850-18-4</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Nozomi cover epub inside.jpg</lea:cover>
