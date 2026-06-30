@@ -1,0 +1,23 @@
+<lea:title>Nothing</lea:title>
+<lea:author file-as="Pech, Eduard [Idoru Toei]">Idoru Toei</lea:author>
+<lea:date created="June 29, 2026">June 30, 2026</lea:date>
+<lea:description>A haunting meditation on the suffocating weight of silence and the fragility of connection. It explores the quiet desperation of a father watching his son fade into an emotional void, shadowed by the sterile performance of a life lived for an audience.</lea:description>
+<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+<lea:rights>All content is © 2026 by Eduard Pech, unless noted otherwise.
+The complete edition is © 2026 by Logophilia.
+Logophilia is an imprint of Logophilia OÜ.</lea:rights>
+<lea:language>en</lea:language>
+<lea:subfolder tag="text">Nothing</lea:subfolder>
+<lea:subfolder tag="images">Nothing</lea:subfolder>
+<lea:text>Nothing.xhtml</lea:text>
+<lea:text>About the Author.xhtml</lea:text>
+<lea:text>About this Publication.xhtml</lea:text>
+<lea:text>About the Publisher.xhtml</lea:text>
+<lea:isbn>978-9908-850-19-1</lea:isbn>
+<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+<lea:font>Comfortaa-Bold.ttf</lea:font>
+<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+<lea:stylesheet>stylesheet.css</lea:stylesheet>
+<lea:stylesheet>fonts.css</lea:stylesheet>
+<lea:cover>Nothing cover epub inside.jpg</lea:cover>
