@@ -1,31 +1,51 @@
-<lea:title>The Pitch Science Fiction 4Q2026</lea:title>
-<lea:author>Eduard Pech</lea:author>
-<lea:date created="June 25, 2026">October 1, 2026</lea:date>
-<lea:description>The Pitch Science Fiction is a quarterly publication
+<lea xmlns:lea="https://logophilia.eu/lea/2026/xhtml">
+    <lea:title>The Pitch Science Fiction 4Q2026</lea:title>
+    <lea:author>Eduard Pech</lea:author>
+    <lea:date created="June 25, 2026">October 1, 2026</lea:date>
+    <lea:description>The Pitch Science Fiction is a quarterly publication
 of science fiction stories by various authors, covering diverse themes.
 Included in this issue:
-<lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
-<lea:collection type="series" position="25" issn="2806-4240">The Pitch Science Fiction</lea:collection>
-<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
-<lea:rights>All content not marked public domain or declared otherwise,
+    <lea:script skip="About">Table Of Contents Plain</lea:script></lea:description>
+    <lea:collection type="series" position="25" issn="2806-4240">The Pitch Science Fiction</lea:collection>
+    <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+    <lea:rights>All content not marked public domain or declared otherwise,
 is copyright 2026 by Eduard Pech.
 The complete edition is copyright 2026 by Logophilia.
 Logophilia is an imprint of Logophilia OÜ.</lea:rights>
-<lea:language>en</lea:language>
-<lea:subfolder tag="epub">tpsf</lea:subfolder>
-<lea:subfolder tag="text">tpsf-25</lea:subfolder>
-<lea:subfolder tag="images">tpsf-25</lea:subfolder>
-<lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
-<lea:text>About the Content.xhtml</lea:text>
-<lea:text>Nozomi.xhtml</lea:text>
-<lea:text>About the Authors.xhtml</lea:text>
-<lea:text>About this Publication.xhtml</lea:text>
-<lea:text>About the Publisher.xhtml</lea:text>
-<lea:isbn>NONE</lea:isbn>
-<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
-<lea:font>Comfortaa-Bold.ttf</lea:font>
-<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
-<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
-<lea:stylesheet>stylesheet.css</lea:stylesheet>
-<lea:stylesheet>fonts.css</lea:stylesheet>
-<lea:cover>2026Q4 cover epub inside.jpg</lea:cover>
+    <lea:language>en</lea:language>
+    <lea:subfolder tag="epub">tpsf</lea:subfolder>
+    <lea:subfolder tag="text">tpsf-25</lea:subfolder>
+    <lea:subfolder tag="images">tpsf-25</lea:subfolder>
+    <lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+    <lea:text>About the Content.xhtml</lea:text>
+    <lea:text>Operation Haystack.xhtml</lea:text>
+    <lea:text>Inside Earth.xhtml</lea:text>
+    <lea:text>Ultima Thule.xhtml</lea:text>
+    <lea:text>The Stars, My Brothers.xhtml</lea:text>
+    <lea:text>The Thing in the Attic.xhtml</lea:text>
+    <lea:text>The Thinking Machine.xhtml</lea:text>
+    <lea:text>The Ambassador.xhtml</lea:text>
+    <lea:text>The Crystal Crypt.xhtml</lea:text>
+    <lea:text>I, Mars.xhtml</lea:text>
+    <lea:text>Pictures Don't Lie.xhtml</lea:text>
+    <lea:text>It Could Be Anything.xhtml</lea:text>
+    <lea:text>Nozomi.xhtml</lea:text>
+    <lea:text>Pandemic.xhtml</lea:text>
+    <lea:text>Project Mastodon.xhtml</lea:text>
+    <lea:text>The Point of View.xhtml</lea:text>
+    <lea:text>The Unseen Blushers.xhtml</lea:text>
+    <lea:text>The Last Letter.xhtml</lea:text>
+    <lea:text>The Big Fix.xhtml</lea:text>
+    <lea:text>Venus Is a Man's World.xhtml</lea:text>
+    <lea:text>About the Authors.xhtml</lea:text>
+    <lea:text>About this Publication.xhtml</lea:text>
+    <lea:text>About the Publisher.xhtml</lea:text>
+    <lea:isbn>NONE</lea:isbn>
+    <lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+    <lea:font>Comfortaa-Bold.ttf</lea:font>
+    <lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+    <lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+    <lea:stylesheet>stylesheet.css</lea:stylesheet>
+    <lea:stylesheet>fonts.css</lea:stylesheet>
+    <lea:cover>2026Q4 cover epub inside.jpg</lea:cover>
+</lea>

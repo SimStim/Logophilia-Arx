@@ -1,21 +1,26 @@
-<lea:title>Slush Pile</lea:title>
-<lea:author>Eduard Pech</lea:author>
-<lea:date created="April 1, 2026">April 1, 2026</lea:date>
-<lea:description>Logophilia Slush Pile</lea:description>
-<lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
-<lea:rights>Not for publication.</lea:rights>
-<lea:language>en</lea:language>
-<lea:subfolder tag="images">Dichotomies of Longing</lea:subfolder>
-<lea:text>slush/About the Content.xhtml</lea:text>
-<lea:text>slush/Nothing.xhtml</lea:text>
-<lea:text>slush/About the Authors.xhtml</lea:text>
-<lea:text>slush/About this Publication.xhtml</lea:text>
-<lea:text>slush/About the Publisher.xhtml</lea:text>
-<lea:isbn>NONE</lea:isbn>
-<lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
-<lea:font>Comfortaa-Bold.ttf</lea:font>
-<lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
-<lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
-<lea:stylesheet>stylesheet.css</lea:stylesheet>
-<lea:stylesheet>fonts.css</lea:stylesheet>
-<lea:cover>../slush.jpg</lea:cover>
+<lea xmlns:lea="https://logophilia.eu/lea/2026/xhtml">
+    <lea:title>Slush Pile</lea:title>
+    <lea:author>Eduard Pech</lea:author>
+    <lea:date created="April 1, 2026">April 1, 2026</lea:date>
+    <lea:description>Logophilia Slush Pile</lea:description>
+    <lea:publisher contact="originals@logophilia.eu">Logophilia</lea:publisher>
+    <lea:rights>Not for publication.</lea:rights>
+    <lea:language>en</lea:language>
+    <lea:subfolder tag="images">slush</lea:subfolder>
+    <lea:text>slush/About the Content.xhtml</lea:text>
+    <lea:text>slush/Captives of the Flame.xhtml</lea:text>
+    <lea:text>slush/Occasion ... for Disaster.xhtml</lea:text>
+    <lea:text>slush/Search the Sky.xhtml</lea:text>
+    <lea:text>slush/Space Station 1.xhtml</lea:text>
+    <lea:text>slush/About the Authors.xhtml</lea:text>
+    <lea:text>slush/About this Publication.xhtml</lea:text>
+    <lea:text>slush/About the Publisher.xhtml</lea:text>
+    <lea:isbn>NONE</lea:isbn>
+    <lea:contributor roles="edt bkp bkd tyg mrk pfr cov ill art blw">Eduard Pech</lea:contributor>
+    <lea:font>Comfortaa-Bold.ttf</lea:font>
+    <lea:font>EBGaramond-Italic-VariableFont_wght.ttf</lea:font>
+    <lea:font>EBGaramond-VariableFont_wght.ttf</lea:font>
+    <lea:stylesheet>stylesheet.css</lea:stylesheet>
+    <lea:stylesheet>fonts.css</lea:stylesheet>
+    <lea:cover>../slush.jpg</lea:cover>
+</lea>
