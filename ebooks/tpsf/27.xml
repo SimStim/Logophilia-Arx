@@ -16,7 +16,7 @@ Logophilia is an imprint of Logophilia OÜ.</lea:rights>
     <lea:subfolder tag="epub">tpsf</lea:subfolder>
     <lea:subfolder tag="text">tpsf-27</lea:subfolder>
     <lea:subfolder tag="images">tpsf-27</lea:subfolder>
-    <lea:option value="[illustration is in the public domain]">defaultcaption</lea:option>
+    <lea:option value="">defaultcaption</lea:option>
     <lea:text>About the Content.xhtml</lea:text>
     <lea:text>Table of Contents by Authors.xhtml</lea:text>
     <lea:text>Table of Contents by Blurbs.xhtml</lea:text>
